@@ -1,0 +1,10 @@
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\bin\Debug\ClientApp.exe
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\bin\Debug\ClientApp.pdb
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\obj\Debug\ClientApp.exe
+C:\Projects\ResearchandDevelopment\APIGatewayDemo\ClientApp\obj\Debug\ClientApp.pdb
