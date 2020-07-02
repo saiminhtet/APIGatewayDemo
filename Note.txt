@@ -1,0 +1,5 @@
+References - http://www.pogsdotnet.com/2018/08/building-simple-api-gateways-with.html
+https://altkomsoftware.pl/en/blog/building-api-gateways-with-ocelot/
+https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-configuration-consul/
+https://ocelot.readthedocs.io/en/latest/index.html
+https://medium.com/swlh/building-net-core-api-gateway-with-ocelot-6302c2b3ffc5
